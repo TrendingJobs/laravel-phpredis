@@ -22,5 +22,11 @@
     },
     "autoload": {
         "psr-4": {"Barbery\\": "src/"}
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev",
+            "dev-developer": "1.1.x-dev"
+        }
     }
 }
